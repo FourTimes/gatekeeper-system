@@ -1,2 +1,1 @@
-#### gatekeeper-system
-open policy agent
+#### Gatekeeper-system
